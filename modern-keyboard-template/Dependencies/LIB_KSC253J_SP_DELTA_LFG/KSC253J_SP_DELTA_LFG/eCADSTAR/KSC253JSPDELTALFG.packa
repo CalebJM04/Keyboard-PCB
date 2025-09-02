@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "KSC253J_SP_DELTA_LFG"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-07-02-09:59:08)
+    (mountForm default
+        (footprintRef "KSC253JSPDELTALFG")
+        (spec "System")
+    )
+)

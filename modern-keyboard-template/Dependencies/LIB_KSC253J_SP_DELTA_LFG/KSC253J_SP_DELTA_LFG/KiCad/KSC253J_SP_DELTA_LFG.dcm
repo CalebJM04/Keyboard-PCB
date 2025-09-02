@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KSC253J_SP_DELTA_LFG
+D Tactile Switches 6.2 x 6.2mm, 3.mm height soft actuator, 5.5N, gold contact material
+K
+F https://www.ckswitches.com/media/1459/ksc.pdf
+$ENDCMP
+#
+#End Doc Library

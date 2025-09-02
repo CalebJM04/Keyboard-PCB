@@ -1,0 +1,9 @@
+Manufacturer=C & K COMPONENTS
+PartNumber=KSC253J SP DELTA LFG
+PartCategory=Switch
+PackageCategory=Other
+PinCount=4
+Version=2.2
+Released=2025-07-02 09:59:08
+Downloaded=2025-08-26 19:29:07
+3D=Y

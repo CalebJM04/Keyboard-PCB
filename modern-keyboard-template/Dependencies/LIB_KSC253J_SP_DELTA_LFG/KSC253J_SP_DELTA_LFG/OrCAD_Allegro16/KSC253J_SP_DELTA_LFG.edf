@@ -1,0 +1,116 @@
+
+(EDIF
+  (rename &KSC253J_SP_DELTA_LFG "KSC253J_SP_DELTA_LFG")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2025 08 26 19 29 07)
+      (dataOrigin "17420291/1708810/2.50/4/2/Switch")
+      (program "SamacSys ECAD Model KSC253J_SP_DELTA_LFG"
+        (version "2.2"))))
+  (library
+  (rename &KSC253J_SP_DELTA_LFG "KSC253J_SP_DELTA_LFG")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition (scale 1 (e 254 -6) (unit DISTANCE)))
+      (userData GRIDRESOLUTION (integer 50 50))
+      (figureGroup DEFAULT (pathWidth 10) (textHeight 100))
+      (figureGroup PROPERTY (pathWidth 10) (textHeight 90))
+      (figureGroup PINNUMBER (pathWidth 10) (textHeight 90))
+      (figureGroup PINNAME (pathWidth 10) (textHeight 90))
+      (figureGroup COMMENT (pathWidth 10) (textHeight 90))
+      (figureGroup PIN (pathWidth 10) (textHeight 90))
+      (figureGroup GRAPHIC (pathWidth 10) (textHeight 100))
+    )
+    (cell
+      (rename &KSC253J_SP_DELTA_LFG "KSC253J_SP_DELTA_LFG")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "S")
+          (property (rename PACKAGENAME "PackageName") (string "KSC253J_SP_DELTA_LFG"))
+          (property (rename ISHETEROGENEOUS "IsHeterogeneous") (string "False"))
+          (property (rename DEVICESINVIEW "DevicesInView") (string "1"))
+          (property (rename DEVICESINPACKAGE "DevicesInPackage") (string "1"))
+          (property (rename DEVICEDESIGNATOR "DeviceDesignator") (string "A"))
+          (property (rename DEVICENUMBERING "DeviceNumbering") (string "Alpha"))
+          (property (rename PCB_32_FOOTPRINT "PCB Footprint") (string "KSC253JSPDELTALFG"))
+          (property (rename &Mouser_Part_Number "Mouser Part Number") (string "611-KSC253JSPDELTALF"))
+          (property (rename &Mouser_Price_Stock "Mouser Price/Stock") (string "https://www.mouser.co.uk/ProductDetail/CK/KSC253J-SP-DELTA-LFG?qs=i8QVZAFTkqRm%252BD28PDm3qw%3D%3D"))
+          (property (rename &Manufacturer_Name "Manufacturer_Name") (string "C & K COMPONENTS"))
+          (property (rename &Manufacturer_Part_Number "Manufacturer_Part_Number") (string "KSC253J SP DELTA LFG"))
+          (property (rename &Description "Description") (string "Tactile Switches 6.2 x 6.2mm, 3.mm height soft actuator, 5.5N, gold contact material"))
+          (property (rename &Datasheet_Link "Datasheet Link") (string "https://www.ckswitches.com/media/1459/ksc.pdf"))
+          (property (rename &Height "Height") (string "3.5 mm"))
+          (property (rename &_60__32_VALUE_32__62_ "Value") (string "KSC253J_SP_DELTA_LFG"))
+          (property (rename VALUE "Value") (string "Value"))
+          (port
+            (rename &NO1 "NO1")
+            (designator "1")
+            (property (rename ORDER "Order") (string "0") (owner "OrCAD"))
+          )
+          (port
+            (rename &NO2 "NO2")
+            (designator "2")
+            (property (rename ORDER "Order") (string "1") (owner "OrCAD"))
+          )
+          (port
+            (rename &COM1 "COM1")
+            (designator "3")
+            (property (rename ORDER "Order") (string "2") (owner "OrCAD"))
+          )
+          (port
+            (rename &COM2 "COM2")
+            (designator "4")
+            (property (rename ORDER "Order") (string "3") (owner "OrCAD"))
+          )
+          (symbol
+            (portImplementation
+              (name &NO1 (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -100) (pt 0 -100))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -100))))
+            )
+            (portImplementation
+              (name &NO2 (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 700 -100) (pt 900 -100))))
+              (connectLocation (figure GRAPHIC (dot (pt 900 -100))))
+            )
+            (portImplementation
+              (name &COM1 (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -200) (pt 0 -200))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -200))))
+            )
+            (portImplementation
+              (name &COM2 (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 700 -200) (pt 900 -200))))
+              (connectLocation (figure GRAPHIC (dot (pt 900 -200))))
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 0 0)
+                  (pt 700 0)
+                  (pt 700 -300)
+                  (pt 0 -300)
+                  (pt 0 0)
+                )
+              )
+            )
+            (keywordDisplay DESIGNATOR (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 750 130))))
+            (propertyDisplay &_60__32_VALUE_32__62_ (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 750 30))))
+          )
+        )
+      )
+    )
+  )
+)

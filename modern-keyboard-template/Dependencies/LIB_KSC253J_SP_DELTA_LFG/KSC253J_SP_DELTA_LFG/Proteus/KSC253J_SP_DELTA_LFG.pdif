@@ -1,0 +1,138 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "KSC253J_SP_DELTA_LFG"
+   (description "Tactile Switches 6.2 x 6.2mm, 3.mm height soft actuator, 5.5N, gold contact material")
+   (family "SWI")
+   (package "KSC253JSPDELTALFG")
+   (attribute "Datasheet Link" "https://www.ckswitches.com/media/1459/ksc.pdf")
+   (attribute "Geometry.Height" "3.5mm")
+   (attribute "Mouser Part Number" "611-KSC253JSPDELTALF")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CK/KSC253J-SP-DELTA-LFG?qs=i8QVZAFTkqRm%252BD28PDm3qw%3D%3D")
+   (attribute "Manufacturer_Name" "C & K COMPONENTS")
+   (attribute "Manufacturer_Part_Number" "KSC253J SP DELTA LFG")
+   (gate
+    (symbol "KSC253J_SP_DELTA_LFG")
+    (pin "NO1" 1 PS)
+    (pin "NO2" 2 PS)
+    (pin "COM1" 3 PS)
+    (pin "COM2" 4 PS)
+   )
+  )
+  (symbol "KSC253J_SP_DELTA_LFG"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "KSC253JSPDELTALFG"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.1 3.1)
+      (pt 3.1 3.1)
+      (pt 3.1 -3.1)
+      (pt -3.1 -3.1)
+      (pt -3.1 3.1))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.3 4.1)
+      (pt 5.3 4.1)
+      (pt 5.3 -4.1)
+      (pt -5.3 -4.1)
+      (pt -5.3 4.1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.8 2.1)
+      (arc (pt -4.800 2.100) (pt -4.850 2.000) (pt -4.750 2.100) (start 180.0) (sweep 90.0))
+      (pt -4.8 2)
+      (arc (pt -4.800 2.000) (pt -4.850 2.000) (pt -4.750 2.100) (start 180.0) (sweep -90.0))
+      (pt -4.8 2.1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.1 1.2)
+      (pt -3.1 -1.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 3.1 1.2)
+      (pt 3.1 -1.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.1 2.8)
+      (pt -3.1 3.1)
+      (pt 3.1 3.1)
+      (pt 3.1 2.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 3.1 -2.8)
+      (pt 3.1 -3.1)
+      (pt -3.1 -3.1)
+      (pt -3.1 -2.8))))
+   (leg 1 (pt -2.900 2.000) (padstack 0))
+   (leg 2 (pt 2.900 2.000) (padstack 0))
+   (leg 3 (pt -2.900 -2.000) (padstack 0))
+   (leg 4 (pt 2.900 -2.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.000 2.800 0 0 0.000))
+   )
+   (model "KSC253J_SP_DELTA_LFG.stp"
+    (euler 90 0 0)
+    (offset 0 0 2)
+   )
+  )
+ )
+)
