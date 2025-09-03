@@ -3710,7 +3710,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0175cb05-5038-4d7d-b8f6-2dcfbb483e02")
-		(property "Reference" "D?"
+		(property "Reference" "D12"
 			(at 97.79 129.5399 90)
 			(effects
 				(font
@@ -3788,7 +3788,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -3804,7 +3804,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01828258-fd22-4d1f-a702-c4b05ad7ed22")
-		(property "Reference" "SW?"
+		(property "Reference" "SW19"
 			(at 118.11 156.21 0)
 			(effects
 				(font
@@ -3862,7 +3862,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW19")
 					(unit 1)
 				)
 			)
@@ -3878,7 +3878,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "03db3bec-6c6b-406c-9edc-c347195d22b4")
-		(property "Reference" "D?"
+		(property "Reference" "D42"
 			(at 204.47 93.9799 90)
 			(effects
 				(font
@@ -3956,7 +3956,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D42")
 					(unit 1)
 				)
 			)
@@ -3972,7 +3972,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "040d3b3d-f8c8-43e3-9450-3581bdf9226d")
-		(property "Reference" "D?"
+		(property "Reference" "D4"
 			(at 62.23 147.3199 90)
 			(effects
 				(font
@@ -4050,7 +4050,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -4066,7 +4066,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04b0df56-edb4-4b25-98b3-f3d1139c4856")
-		(property "Reference" "SW?"
+		(property "Reference" "SW58"
 			(at 260.35 83.82 0)
 			(effects
 				(font
@@ -4124,7 +4124,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW58")
 					(unit 1)
 				)
 			)
@@ -4140,7 +4140,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06021f21-9e66-45ac-9da2-bed4c9826b6b")
-		(property "Reference" "D?"
+		(property "Reference" "D57"
 			(at 240.03 186.6899 90)
 			(effects
 				(font
@@ -4218,7 +4218,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D57")
 					(unit 1)
 				)
 			)
@@ -4234,7 +4234,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "083259c2-2f48-4177-8b5f-aaaa7f9304fa")
-		(property "Reference" "D?"
+		(property "Reference" "D10"
 			(at 97.79 93.9799 90)
 			(effects
 				(font
@@ -4312,7 +4312,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -4328,7 +4328,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0af1f432-6e4e-48a1-845e-58ac51593aaa")
-		(property "Reference" "SW?"
+		(property "Reference" "SW33"
 			(at 171.45 119.38 0)
 			(effects
 				(font
@@ -4386,7 +4386,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW33")
 					(unit 1)
 				)
 			)
@@ -4402,7 +4402,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0dd36ddf-fc7e-41b0-a561-3731686c1120")
-		(property "Reference" "D?"
+		(property "Reference" "D48"
 			(at 222.25 111.7599 90)
 			(effects
 				(font
@@ -4480,7 +4480,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D48")
 					(unit 1)
 				)
 			)
@@ -4496,7 +4496,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0dd5806a-f596-4d64-9ced-077d782851a5")
-		(property "Reference" "D?"
+		(property "Reference" "D5"
 			(at 62.23 186.6899 90)
 			(effects
 				(font
@@ -4574,7 +4574,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -4590,7 +4590,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0e5372ed-dd81-4aec-8ee7-f836ca48d753")
-		(property "Reference" "D?"
+		(property "Reference" "D80"
 			(at 328.93 111.7599 90)
 			(effects
 				(font
@@ -4668,7 +4668,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D80")
 					(unit 1)
 				)
 			)
@@ -4684,7 +4684,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f5cfe68-2b15-4dee-9d47-35652f2bb7c6")
-		(property "Reference" "D?"
+		(property "Reference" "D53"
 			(at 240.03 111.7599 90)
 			(effects
 				(font
@@ -4762,7 +4762,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D53")
 					(unit 1)
 				)
 			)
@@ -4778,7 +4778,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1224f1bf-200a-4e0c-82dc-bcaf92abc13c")
-		(property "Reference" "D?"
+		(property "Reference" "D73"
 			(at 293.37 186.6899 90)
 			(effects
 				(font
@@ -4856,7 +4856,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D73")
 					(unit 1)
 				)
 			)
@@ -4872,7 +4872,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "125dbc75-bb1b-4a15-bd29-47310c50d1ec")
-		(property "Reference" "D?"
+		(property "Reference" "D31"
 			(at 168.91 93.9799 90)
 			(effects
 				(font
@@ -4950,7 +4950,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D31")
 					(unit 1)
 				)
 			)
@@ -4966,7 +4966,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "18980654-a9d8-480b-bfa5-f5810bab54aa")
-		(property "Reference" "SW?"
+		(property "Reference" "SW83"
 			(at 331.47 156.21 0)
 			(effects
 				(font
@@ -5024,7 +5024,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW83")
 					(unit 1)
 				)
 			)
@@ -5040,7 +5040,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1c89037b-6315-4ac1-a53e-f79466193bce")
-		(property "Reference" "SW?"
+		(property "Reference" "SW66"
 			(at 278.13 119.38 0)
 			(effects
 				(font
@@ -5098,7 +5098,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW66")
 					(unit 1)
 				)
 			)
@@ -5114,7 +5114,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1cbc3fbd-a267-410a-bef8-dd0808f7921e")
-		(property "Reference" "SW?"
+		(property "Reference" "SW69"
 			(at 295.91 83.82 0)
 			(effects
 				(font
@@ -5172,7 +5172,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW69")
 					(unit 1)
 				)
 			)
@@ -5188,7 +5188,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ce14843-00c6-4021-ba5a-00bb3914d79e")
-		(property "Reference" "SW?"
+		(property "Reference" "SW35"
 			(at 171.45 156.21 0)
 			(effects
 				(font
@@ -5246,7 +5246,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW35")
 					(unit 1)
 				)
 			)
@@ -5262,7 +5262,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1dc81a8c-62b7-44b2-8636-e1739e6aca34")
-		(property "Reference" "D?"
+		(property "Reference" "D50"
 			(at 222.25 147.3199 90)
 			(effects
 				(font
@@ -5340,7 +5340,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D50")
 					(unit 1)
 				)
 			)
@@ -5356,7 +5356,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ecbcd3c-7081-4944-a793-daeef0a2715f")
-		(property "Reference" "SW?"
+		(property "Reference" "SW18"
 			(at 118.11 137.16 0)
 			(effects
 				(font
@@ -5414,7 +5414,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW18")
 					(unit 1)
 				)
 			)
@@ -5430,7 +5430,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ee6f615-48db-467e-ad29-97f5aee42497")
-		(property "Reference" "D?"
+		(property "Reference" "D83"
 			(at 328.93 166.3699 90)
 			(effects
 				(font
@@ -5508,7 +5508,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D83")
 					(unit 1)
 				)
 			)
@@ -5524,7 +5524,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1f66e522-bf72-495b-a75e-c96ecafa405f")
-		(property "Reference" "SW?"
+		(property "Reference" "SW75"
 			(at 313.69 101.6 0)
 			(effects
 				(font
@@ -5582,7 +5582,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW75")
 					(unit 1)
 				)
 			)
@@ -5598,7 +5598,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20d396a4-8afd-47f8-9ef2-37c63ee9ce29")
-		(property "Reference" "SW?"
+		(property "Reference" "SW54"
 			(at 242.57 119.38 0)
 			(effects
 				(font
@@ -5656,7 +5656,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW54")
 					(unit 1)
 				)
 			)
@@ -5672,7 +5672,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "23d5febb-d6f9-43d4-8e3e-cf2c503e4adf")
-		(property "Reference" "D?"
+		(property "Reference" "D52"
 			(at 240.03 93.9799 90)
 			(effects
 				(font
@@ -5750,7 +5750,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D52")
 					(unit 1)
 				)
 			)
@@ -5766,7 +5766,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "23f9ba20-7bb9-429f-b6c1-d157a7952470")
-		(property "Reference" "SW?"
+		(property "Reference" "SW13"
 			(at 100.33 137.16 0)
 			(effects
 				(font
@@ -5824,7 +5824,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW13")
 					(unit 1)
 				)
 			)
@@ -5840,7 +5840,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24169d55-4e17-4753-9225-2634b64d8455")
-		(property "Reference" "SW?"
+		(property "Reference" "SW15"
 			(at 118.11 83.82 0)
 			(effects
 				(font
@@ -5898,7 +5898,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW15")
 					(unit 1)
 				)
 			)
@@ -5914,7 +5914,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "246aa8d8-2461-48aa-a33e-1a3329b077a8")
-		(property "Reference" "D?"
+		(property "Reference" "D29"
 			(at 151.13 147.3199 90)
 			(effects
 				(font
@@ -5992,7 +5992,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D29")
 					(unit 1)
 				)
 			)
@@ -6008,7 +6008,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "266a62f4-d149-4298-a56f-d28cda64defd")
-		(property "Reference" "D?"
+		(property "Reference" "D71"
 			(at 293.37 147.3199 90)
 			(effects
 				(font
@@ -6086,7 +6086,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D71")
 					(unit 1)
 				)
 			)
@@ -6102,7 +6102,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2684266e-99e0-4611-a368-474352af8dc2")
-		(property "Reference" "D?"
+		(property "Reference" "D67"
 			(at 275.59 147.3199 90)
 			(effects
 				(font
@@ -6180,7 +6180,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D67")
 					(unit 1)
 				)
 			)
@@ -6196,7 +6196,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "26e8ba68-7e35-443b-baa4-6e89094e57d4")
-		(property "Reference" "D?"
+		(property "Reference" "D44"
 			(at 204.47 129.5399 90)
 			(effects
 				(font
@@ -6274,7 +6274,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D44")
 					(unit 1)
 				)
 			)
@@ -6290,7 +6290,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27778592-1833-4aaa-bde8-e382e8d5436a")
-		(property "Reference" "SW?"
+		(property "Reference" "SW55"
 			(at 242.57 137.16 0)
 			(effects
 				(font
@@ -6348,7 +6348,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW55")
 					(unit 1)
 				)
 			)
@@ -6364,7 +6364,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28fb9596-7066-4606-aad8-57a310431253")
-		(property "Reference" "SW?"
+		(property "Reference" "SW17"
 			(at 118.11 119.38 0)
 			(effects
 				(font
@@ -6422,7 +6422,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW17")
 					(unit 1)
 				)
 			)
@@ -6438,7 +6438,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "292158cf-793a-4fe9-a9d4-4739173a99b8")
-		(property "Reference" "SW?"
+		(property "Reference" "SW62"
 			(at 260.35 156.21 0)
 			(effects
 				(font
@@ -6496,7 +6496,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW62")
 					(unit 1)
 				)
 			)
@@ -6512,7 +6512,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "29dcd3c6-144f-4e7a-9323-5b88a53ede06")
-		(property "Reference" "SW?"
+		(property "Reference" "SW37"
 			(at 189.23 83.82 0)
 			(effects
 				(font
@@ -6570,7 +6570,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW37")
 					(unit 1)
 				)
 			)
@@ -6586,7 +6586,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "29fca5fc-86db-4cfd-85d6-eb8d431e91c9")
-		(property "Reference" "D?"
+		(property "Reference" "D69"
 			(at 293.37 93.9799 90)
 			(effects
 				(font
@@ -6664,7 +6664,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D69")
 					(unit 1)
 				)
 			)
@@ -6680,7 +6680,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2a61d994-0dbc-4b13-838e-3113d462d691")
-		(property "Reference" "D?"
+		(property "Reference" "D66"
 			(at 275.59 129.5399 90)
 			(effects
 				(font
@@ -6758,7 +6758,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D66")
 					(unit 1)
 				)
 			)
@@ -6774,7 +6774,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c1d2d82-1622-4c52-9e60-dd6458828de4")
-		(property "Reference" "D?"
+		(property "Reference" "D35"
 			(at 168.91 166.3699 90)
 			(effects
 				(font
@@ -6852,7 +6852,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D35")
 					(unit 1)
 				)
 			)
@@ -6868,7 +6868,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f7fc2ef-2486-49b7-98c1-53ecbadf61ce")
-		(property "Reference" "SW?"
+		(property "Reference" "SW6"
 			(at 82.55 83.82 0)
 			(effects
 				(font
@@ -6926,7 +6926,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -6942,7 +6942,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ffd574b-4b38-474d-b36d-33a834f209af")
-		(property "Reference" "D?"
+		(property "Reference" "D84"
 			(at 328.93 186.6899 90)
 			(effects
 				(font
@@ -7020,7 +7020,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D84")
 					(unit 1)
 				)
 			)
@@ -7036,7 +7036,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32438343-866c-4501-80e2-622442cd14be")
-		(property "Reference" "D?"
+		(property "Reference" "D54"
 			(at 240.03 129.5399 90)
 			(effects
 				(font
@@ -7114,7 +7114,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D54")
 					(unit 1)
 				)
 			)
@@ -7130,7 +7130,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32607a47-aa19-4cc3-9d30-2e58c891a466")
-		(property "Reference" "D?"
+		(property "Reference" "D2"
 			(at 62.23 111.7599 90)
 			(effects
 				(font
@@ -7208,7 +7208,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -7224,7 +7224,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "38a65670-d3e1-4478-a15f-2768d15bd691")
-		(property "Reference" "D?"
+		(property "Reference" "D25"
 			(at 133.35 166.3699 90)
 			(effects
 				(font
@@ -7302,7 +7302,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D25")
 					(unit 1)
 				)
 			)
@@ -7318,7 +7318,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "38d19f16-fd98-4e2c-b825-ce9fed07c810")
-		(property "Reference" "SW?"
+		(property "Reference" "SW68"
 			(at 278.13 176.53 0)
 			(effects
 				(font
@@ -7376,7 +7376,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW68")
 					(unit 1)
 				)
 			)
@@ -7392,7 +7392,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39ac2587-45ca-48bc-b96c-0c60cae9a38a")
-		(property "Reference" "D?"
+		(property "Reference" "D30"
 			(at 151.13 166.3699 90)
 			(effects
 				(font
@@ -7470,7 +7470,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D30")
 					(unit 1)
 				)
 			)
@@ -7486,7 +7486,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3bcb53fc-df7b-4fbc-b3e1-115ced184016")
-		(property "Reference" "D?"
+		(property "Reference" "D26"
 			(at 151.13 93.9799 90)
 			(effects
 				(font
@@ -7564,7 +7564,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -7580,7 +7580,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d317ad2-4abc-4dcb-a0d0-7a25f39b7520")
-		(property "Reference" "SW?"
+		(property "Reference" "SW81"
 			(at 331.47 119.38 0)
 			(effects
 				(font
@@ -7638,7 +7638,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW81")
 					(unit 1)
 				)
 			)
@@ -7654,7 +7654,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ec5bf08-abbe-49e0-8511-b2fa1bcbfa53")
-		(property "Reference" "SW?"
+		(property "Reference" "SW60"
 			(at 260.35 119.38 0)
 			(effects
 				(font
@@ -7712,7 +7712,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW60")
 					(unit 1)
 				)
 			)
@@ -7728,7 +7728,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "406744ae-348d-4395-b2a4-e91e4f3488f2")
-		(property "Reference" "SW?"
+		(property "Reference" "SW80"
 			(at 331.47 101.6 0)
 			(effects
 				(font
@@ -7786,7 +7786,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW80")
 					(unit 1)
 				)
 			)
@@ -7802,7 +7802,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41a302cc-8484-48c2-ac1b-708b678135e5")
-		(property "Reference" "D?"
+		(property "Reference" "D74"
 			(at 311.15 93.9799 90)
 			(effects
 				(font
@@ -7880,7 +7880,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D74")
 					(unit 1)
 				)
 			)
@@ -7896,7 +7896,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41c5a3d4-6163-4c6f-8824-4873d7374231")
-		(property "Reference" "SW?"
+		(property "Reference" "SW46"
 			(at 207.01 156.21 0)
 			(effects
 				(font
@@ -7954,7 +7954,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW46")
 					(unit 1)
 				)
 			)
@@ -7970,7 +7970,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43165737-d6d4-4660-ac75-7c213a0ec8d1")
-		(property "Reference" "D?"
+		(property "Reference" "D72"
 			(at 293.37 166.3699 90)
 			(effects
 				(font
@@ -8048,7 +8048,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D72")
 					(unit 1)
 				)
 			)
@@ -8064,7 +8064,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46050362-f011-40af-96d3-263da8426632")
-		(property "Reference" "D?"
+		(property "Reference" "D56"
 			(at 240.03 166.3699 90)
 			(effects
 				(font
@@ -8142,7 +8142,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D56")
 					(unit 1)
 				)
 			)
@@ -8158,7 +8158,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "49eb10b4-c308-4430-b2e3-86b17f8b026c")
-		(property "Reference" "D?"
+		(property "Reference" "D49"
 			(at 222.25 129.5399 90)
 			(effects
 				(font
@@ -8236,7 +8236,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D49")
 					(unit 1)
 				)
 			)
@@ -8252,7 +8252,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4aa07a84-4770-4420-ba68-c047b6626d61")
-		(property "Reference" "SW?"
+		(property "Reference" "SW7"
 			(at 82.55 101.6 0)
 			(effects
 				(font
@@ -8310,7 +8310,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW7")
 					(unit 1)
 				)
 			)
@@ -8326,7 +8326,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4da2f8a4-2e49-4d3a-aef2-209a279af82f")
-		(property "Reference" "D?"
+		(property "Reference" "D68"
 			(at 275.59 186.6899 90)
 			(effects
 				(font
@@ -8404,7 +8404,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D68")
 					(unit 1)
 				)
 			)
@@ -8420,7 +8420,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "50e9c324-e349-471e-b871-b3143b9657dc")
-		(property "Reference" "SW?"
+		(property "Reference" "SW10"
 			(at 100.33 83.82 0)
 			(effects
 				(font
@@ -8478,7 +8478,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW10")
 					(unit 1)
 				)
 			)
@@ -8494,7 +8494,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "516a2191-9822-4128-adb5-37693d80b699")
-		(property "Reference" "SW?"
+		(property "Reference" "SW44"
 			(at 207.01 119.38 0)
 			(effects
 				(font
@@ -8552,7 +8552,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW44")
 					(unit 1)
 				)
 			)
@@ -8568,7 +8568,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "51c51803-69ab-4b67-8830-1ef0f530c2d1")
-		(property "Reference" "SW?"
+		(property "Reference" "SW41"
 			(at 189.23 156.21 0)
 			(effects
 				(font
@@ -8626,7 +8626,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW41")
 					(unit 1)
 				)
 			)
@@ -8642,7 +8642,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5428bd46-43b6-48c7-ade5-f5b65094c92c")
-		(property "Reference" "D?"
+		(property "Reference" "D37"
 			(at 186.69 93.9799 90)
 			(effects
 				(font
@@ -8720,7 +8720,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D37")
 					(unit 1)
 				)
 			)
@@ -8736,7 +8736,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56515cfe-b69b-4d98-9e20-a43ee44ffb39")
-		(property "Reference" "D?"
+		(property "Reference" "D41"
 			(at 186.69 166.3699 90)
 			(effects
 				(font
@@ -8814,7 +8814,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D41")
 					(unit 1)
 				)
 			)
@@ -8830,7 +8830,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56cecc86-d137-45c3-989b-90e96595189c")
-		(property "Reference" "SW?"
+		(property "Reference" "SW73"
 			(at 295.91 176.53 0)
 			(effects
 				(font
@@ -8888,7 +8888,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW73")
 					(unit 1)
 				)
 			)
@@ -8904,7 +8904,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "578f588e-8fed-45de-a547-c97235b3947f")
-		(property "Reference" "D?"
+		(property "Reference" "D70"
 			(at 293.37 129.5399 90)
 			(effects
 				(font
@@ -8982,7 +8982,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D70")
 					(unit 1)
 				)
 			)
@@ -8998,7 +8998,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5934b317-888b-4ff7-9857-062bbe3b2843")
-		(property "Reference" "SW?"
+		(property "Reference" "SW4"
 			(at 64.77 137.16 0)
 			(effects
 				(font
@@ -9056,7 +9056,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -9072,7 +9072,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59472170-6bb4-445b-bc56-392830ee9e2a")
-		(property "Reference" "SW?"
+		(property "Reference" "SW23"
 			(at 135.89 119.38 0)
 			(effects
 				(font
@@ -9130,7 +9130,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW23")
 					(unit 1)
 				)
 			)
@@ -9146,7 +9146,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c2584da-0165-42ae-8ae4-e4847e1e86d7")
-		(property "Reference" "D?"
+		(property "Reference" "D9"
 			(at 80.01 186.6899 90)
 			(effects
 				(font
@@ -9224,7 +9224,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -9240,7 +9240,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c67ba3e-d432-47f2-a459-7da159f0c98f")
-		(property "Reference" "D?"
+		(property "Reference" "D15"
 			(at 115.57 93.9799 90)
 			(effects
 				(font
@@ -9318,7 +9318,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -9334,7 +9334,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60c4579f-eeb3-4971-80e2-0c2dc17e7627")
-		(property "Reference" "SW?"
+		(property "Reference" "SW74"
 			(at 313.69 83.82 0)
 			(effects
 				(font
@@ -9392,7 +9392,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW74")
 					(unit 1)
 				)
 			)
@@ -9408,7 +9408,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "62705faa-967e-4a6a-af78-96d6e583ccdd")
-		(property "Reference" "SW?"
+		(property "Reference" "SW20"
 			(at 118.11 176.53 0)
 			(effects
 				(font
@@ -9466,7 +9466,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW20")
 					(unit 1)
 				)
 			)
@@ -9482,7 +9482,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65ca2c08-0517-4a14-9d4c-ba0c91a2eb8a")
-		(property "Reference" "D?"
+		(property "Reference" "D76"
 			(at 311.15 129.5399 90)
 			(effects
 				(font
@@ -9560,7 +9560,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D76")
 					(unit 1)
 				)
 			)
@@ -9576,7 +9576,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66191020-1405-41e2-9112-4a273ea710ce")
-		(property "Reference" "D?"
+		(property "Reference" "D78"
 			(at 311.15 186.6899 90)
 			(effects
 				(font
@@ -9654,7 +9654,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D78")
 					(unit 1)
 				)
 			)
@@ -9670,7 +9670,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6664a611-a8f0-41a6-961c-20054c6d18fe")
-		(property "Reference" "SW?"
+		(property "Reference" "SW38"
 			(at 189.23 101.6 0)
 			(effects
 				(font
@@ -9728,7 +9728,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW38")
 					(unit 1)
 				)
 			)
@@ -9744,7 +9744,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66ba8045-e968-4e23-9a28-22a9a981ff13")
-		(property "Reference" "SW?"
+		(property "Reference" "SW12"
 			(at 100.33 119.38 0)
 			(effects
 				(font
@@ -9802,7 +9802,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW12")
 					(unit 1)
 				)
 			)
@@ -9818,7 +9818,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "689052c9-c647-4290-9e93-32a8debcd787")
-		(property "Reference" "SW?"
+		(property "Reference" "SW31"
 			(at 171.45 83.82 0)
 			(effects
 				(font
@@ -9876,7 +9876,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW31")
 					(unit 1)
 				)
 			)
@@ -9892,7 +9892,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6aa545f3-49fe-406e-aea9-a899e0ee8e32")
-		(property "Reference" "D?"
+		(property "Reference" "D13"
 			(at 97.79 147.3199 90)
 			(effects
 				(font
@@ -9970,7 +9970,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -9986,7 +9986,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6aa5ca41-114c-4f9f-8e7b-8e5d2f4ad906")
-		(property "Reference" "SW?"
+		(property "Reference" "SW63"
 			(at 260.35 176.53 0)
 			(effects
 				(font
@@ -10044,7 +10044,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW63")
 					(unit 1)
 				)
 			)
@@ -10060,7 +10060,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ab0c49e-13cd-4bc2-9d2b-ca23195a1e45")
-		(property "Reference" "D?"
+		(property "Reference" "D51"
 			(at 222.25 166.3699 90)
 			(effects
 				(font
@@ -10138,7 +10138,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D51")
 					(unit 1)
 				)
 			)
@@ -10154,7 +10154,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f585355-499e-4e4c-adea-6f48f40fe4fc")
-		(property "Reference" "D?"
+		(property "Reference" "D47"
 			(at 222.25 93.9799 90)
 			(effects
 				(font
@@ -10232,7 +10232,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D47")
 					(unit 1)
 				)
 			)
@@ -10248,7 +10248,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "70385c30-9f7d-4116-88dc-6a4256d993c3")
-		(property "Reference" "SW?"
+		(property "Reference" "SW24"
 			(at 135.89 137.16 0)
 			(effects
 				(font
@@ -10306,7 +10306,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW24")
 					(unit 1)
 				)
 			)
@@ -10322,7 +10322,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "712769dd-491c-46fd-b4ec-30afe352e55f")
-		(property "Reference" "D?"
+		(property "Reference" "D81"
 			(at 328.93 129.5399 90)
 			(effects
 				(font
@@ -10400,7 +10400,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D81")
 					(unit 1)
 				)
 			)
@@ -10416,7 +10416,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "723213ab-57c6-40f4-98ae-a14b9b4ebb18")
-		(property "Reference" "SW?"
+		(property "Reference" "SW70"
 			(at 295.91 119.38 0)
 			(effects
 				(font
@@ -10474,7 +10474,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW70")
 					(unit 1)
 				)
 			)
@@ -10490,7 +10490,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78d9bac8-69c2-4a00-8737-044277214b28")
-		(property "Reference" "SW?"
+		(property "Reference" "SW49"
 			(at 224.79 119.38 0)
 			(effects
 				(font
@@ -10548,7 +10548,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW49")
 					(unit 1)
 				)
 			)
@@ -10564,7 +10564,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c0f23eb-9e2b-4684-bbaf-92e01878103c")
-		(property "Reference" "SW?"
+		(property "Reference" "SW3"
 			(at 64.77 119.38 0)
 			(effects
 				(font
@@ -10622,7 +10622,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -10638,7 +10638,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c2979b0-80c8-4f53-91d2-cce65b080860")
-		(property "Reference" "SW?"
+		(property "Reference" "SW27"
 			(at 153.67 101.6 0)
 			(effects
 				(font
@@ -10696,7 +10696,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW27")
 					(unit 1)
 				)
 			)
@@ -10712,7 +10712,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f76b6f4-20ed-4379-a7fd-18e5c13dd426")
-		(property "Reference" "D?"
+		(property "Reference" "D27"
 			(at 151.13 111.7599 90)
 			(effects
 				(font
@@ -10790,7 +10790,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -10806,7 +10806,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80ccdbe7-4bbd-4046-a31f-97b1f1f08389")
-		(property "Reference" "SW?"
+		(property "Reference" "SW25"
 			(at 135.89 156.21 0)
 			(effects
 				(font
@@ -10864,7 +10864,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW25")
 					(unit 1)
 				)
 			)
@@ -10880,7 +10880,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "81886a51-ec89-40f4-b523-cf9359ae1bee")
-		(property "Reference" "SW?"
+		(property "Reference" "SW36"
 			(at 171.45 176.53 0)
 			(effects
 				(font
@@ -10938,7 +10938,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW36")
 					(unit 1)
 				)
 			)
@@ -10954,7 +10954,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "819cdcbb-69de-4ce7-80d9-ffc72717950b")
-		(property "Reference" "D?"
+		(property "Reference" "D18"
 			(at 115.57 147.3199 90)
 			(effects
 				(font
@@ -11032,7 +11032,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -11048,7 +11048,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "824a8578-a640-40d8-af9c-5f69cb1b1d3c")
-		(property "Reference" "D?"
+		(property "Reference" "D75"
 			(at 311.15 111.7599 90)
 			(effects
 				(font
@@ -11126,7 +11126,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D75")
 					(unit 1)
 				)
 			)
@@ -11142,7 +11142,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "82a9029f-d9aa-4151-ba45-c8743b55d699")
-		(property "Reference" "SW?"
+		(property "Reference" "SW21"
 			(at 135.89 83.82 0)
 			(effects
 				(font
@@ -11200,7 +11200,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW21")
 					(unit 1)
 				)
 			)
@@ -11216,7 +11216,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "82fc163f-253a-46da-9a92-7f129e670b97")
-		(property "Reference" "D?"
+		(property "Reference" "D32"
 			(at 168.91 111.7599 90)
 			(effects
 				(font
@@ -11294,7 +11294,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D32")
 					(unit 1)
 				)
 			)
@@ -11310,7 +11310,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83fb3dcc-73c7-4b7a-8a79-4e619c8fc230")
-		(property "Reference" "SW?"
+		(property "Reference" "SW72"
 			(at 295.91 156.21 0)
 			(effects
 				(font
@@ -11368,7 +11368,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW72")
 					(unit 1)
 				)
 			)
@@ -11384,7 +11384,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84b2fe57-1709-4608-9b3a-4cdd48807d5e")
-		(property "Reference" "SW?"
+		(property "Reference" "SW64"
 			(at 278.13 83.82 0)
 			(effects
 				(font
@@ -11442,7 +11442,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW64")
 					(unit 1)
 				)
 			)
@@ -11458,7 +11458,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "86149e1a-22a9-4d9e-a7d9-8f511cccf76e")
-		(property "Reference" "SW?"
+		(property "Reference" "SW29"
 			(at 153.67 137.16 0)
 			(effects
 				(font
@@ -11516,7 +11516,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW29")
 					(unit 1)
 				)
 			)
@@ -11532,7 +11532,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8929ce62-1fe0-4bb7-a6c1-0c230f253345")
-		(property "Reference" "SW?"
+		(property "Reference" "SW40"
 			(at 189.23 137.16 0)
 			(effects
 				(font
@@ -11590,7 +11590,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW40")
 					(unit 1)
 				)
 			)
@@ -11606,7 +11606,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d278521-231e-437c-a436-96658d245b3f")
-		(property "Reference" "D?"
+		(property "Reference" "D40"
 			(at 186.69 147.3199 90)
 			(effects
 				(font
@@ -11684,7 +11684,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D40")
 					(unit 1)
 				)
 			)
@@ -11700,7 +11700,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e74f48a-09c6-4444-981a-3dd2097bc463")
-		(property "Reference" "SW?"
+		(property "Reference" "SW57"
 			(at 242.57 176.53 0)
 			(effects
 				(font
@@ -11758,7 +11758,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW57")
 					(unit 1)
 				)
 			)
@@ -11774,7 +11774,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92bead1a-121f-4457-9630-b80e4f09d0f6")
-		(property "Reference" "D?"
+		(property "Reference" "D24"
 			(at 133.35 147.3199 90)
 			(effects
 				(font
@@ -11852,7 +11852,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D24")
 					(unit 1)
 				)
 			)
@@ -11868,7 +11868,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95c50df5-2852-4556-8712-840476e04a3e")
-		(property "Reference" "SW?"
+		(property "Reference" "SW76"
 			(at 313.69 119.38 0)
 			(effects
 				(font
@@ -11926,7 +11926,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW76")
 					(unit 1)
 				)
 			)
@@ -11942,7 +11942,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9613a328-fffe-4f83-b793-fdf818d96866")
-		(property "Reference" "SW?"
+		(property "Reference" "SW32"
 			(at 171.45 101.6 0)
 			(effects
 				(font
@@ -12000,7 +12000,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW32")
 					(unit 1)
 				)
 			)
@@ -12016,7 +12016,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "965a269e-986d-460f-9dc3-234b1a4c0c1c")
-		(property "Reference" "SW?"
+		(property "Reference" "SW51"
 			(at 224.79 156.21 0)
 			(effects
 				(font
@@ -12074,7 +12074,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW51")
 					(unit 1)
 				)
 			)
@@ -12090,7 +12090,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97819392-53ca-43d4-a3b2-4dfcab75742e")
-		(property "Reference" "D?"
+		(property "Reference" "D3"
 			(at 62.23 129.5399 90)
 			(effects
 				(font
@@ -12168,7 +12168,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -12184,7 +12184,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98166f03-faa3-4c71-8d1d-4bf6a4147ee4")
-		(property "Reference" "D?"
+		(property "Reference" "D77"
 			(at 311.15 166.3699 90)
 			(effects
 				(font
@@ -12262,7 +12262,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D77")
 					(unit 1)
 				)
 			)
@@ -12278,7 +12278,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99bc143c-285d-4d8c-a4b8-96e1505343cf")
-		(property "Reference" "D?"
+		(property "Reference" "D28"
 			(at 151.13 129.5399 90)
 			(effects
 				(font
@@ -12356,7 +12356,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D28")
 					(unit 1)
 				)
 			)
@@ -12372,7 +12372,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99c88a20-b780-4f76-9a36-3594abac02c4")
-		(property "Reference" "D?"
+		(property "Reference" "D14"
 			(at 97.79 166.3699 90)
 			(effects
 				(font
@@ -12450,7 +12450,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -12466,7 +12466,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b644ad5-eded-493f-9ba4-49bd9b36393b")
-		(property "Reference" "D?"
+		(property "Reference" "D65"
 			(at 275.59 111.7599 90)
 			(effects
 				(font
@@ -12544,7 +12544,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D65")
 					(unit 1)
 				)
 			)
@@ -12560,7 +12560,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9cc6787d-59af-4400-a8ea-d27e051159eb")
-		(property "Reference" "SW?"
+		(property "Reference" "SW84"
 			(at 331.47 176.53 0)
 			(effects
 				(font
@@ -12618,7 +12618,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW84")
 					(unit 1)
 				)
 			)
@@ -12634,7 +12634,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e01edb6-a92e-445f-996e-350460e357f9")
-		(property "Reference" "SW?"
+		(property "Reference" "SW82"
 			(at 331.47 137.16 0)
 			(effects
 				(font
@@ -12692,7 +12692,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW82")
 					(unit 1)
 				)
 			)
@@ -12708,7 +12708,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e9f67f4-b80e-422d-bd8c-f616224993dd")
-		(property "Reference" "D?"
+		(property "Reference" "D1"
 			(at 62.23 93.9799 90)
 			(effects
 				(font
@@ -12786,7 +12786,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -12802,7 +12802,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ef9e4c0-553b-4257-8e1a-5bc8bd2a1c0c")
-		(property "Reference" "D?"
+		(property "Reference" "D82"
 			(at 328.93 147.3199 90)
 			(effects
 				(font
@@ -12880,7 +12880,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D82")
 					(unit 1)
 				)
 			)
@@ -12896,7 +12896,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f475b84-ecd9-4d21-b1a8-5adb42c1f167")
-		(property "Reference" "SW?"
+		(property "Reference" "SW30"
 			(at 153.67 156.21 0)
 			(effects
 				(font
@@ -12954,7 +12954,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW30")
 					(unit 1)
 				)
 			)
@@ -12970,7 +12970,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1354d22-ad7d-4c65-8a5b-b39a4aeb1430")
-		(property "Reference" "D?"
+		(property "Reference" "D36"
 			(at 168.91 186.6899 90)
 			(effects
 				(font
@@ -13048,7 +13048,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D36")
 					(unit 1)
 				)
 			)
@@ -13064,7 +13064,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1aeaacb-9cc9-4d9f-ba7a-d7b32a9cab2e")
-		(property "Reference" "D?"
+		(property "Reference" "D19"
 			(at 115.57 166.3699 90)
 			(effects
 				(font
@@ -13142,7 +13142,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -13158,7 +13158,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2d9a1e8-207e-4049-a9ba-32214d331a5c")
-		(property "Reference" "D?"
+		(property "Reference" "D7"
 			(at 80.01 111.7599 90)
 			(effects
 				(font
@@ -13236,7 +13236,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -13252,7 +13252,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2dc9729-1f2d-4b94-b88e-1de04d7c150b")
-		(property "Reference" "SW?"
+		(property "Reference" "SW45"
 			(at 207.01 137.16 0)
 			(effects
 				(font
@@ -13310,7 +13310,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW45")
 					(unit 1)
 				)
 			)
@@ -13326,7 +13326,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a39bd7dd-3c89-4796-bdd6-c71d01a8b59f")
-		(property "Reference" "SW?"
+		(property "Reference" "SW14"
 			(at 100.33 156.21 0)
 			(effects
 				(font
@@ -13384,7 +13384,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW14")
 					(unit 1)
 				)
 			)
@@ -13400,7 +13400,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a59442d5-4559-47c4-92da-dec35f3ddb3a")
-		(property "Reference" "SW?"
+		(property "Reference" "SW26"
 			(at 153.67 83.82 0)
 			(effects
 				(font
@@ -13458,7 +13458,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW26")
 					(unit 1)
 				)
 			)
@@ -13474,7 +13474,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a614fcad-b892-4ff1-bc01-c2867c2ef5b7")
-		(property "Reference" "SW?"
+		(property "Reference" "SW1"
 			(at 64.77 83.82 0)
 			(effects
 				(font
@@ -13532,7 +13532,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -13548,7 +13548,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a78aafde-0df8-4ebf-9006-1d8fcc0223b1")
-		(property "Reference" "SW?"
+		(property "Reference" "SW59"
 			(at 260.35 101.6 0)
 			(effects
 				(font
@@ -13606,7 +13606,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW59")
 					(unit 1)
 				)
 			)
@@ -13622,7 +13622,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a87c6d48-d37c-427a-8e89-8929ef9cc2bf")
-		(property "Reference" "D?"
+		(property "Reference" "D34"
 			(at 168.91 147.3199 90)
 			(effects
 				(font
@@ -13700,7 +13700,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D34")
 					(unit 1)
 				)
 			)
@@ -13716,7 +13716,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a8d6ce9e-8dd2-4565-aeb0-cdbb9750b2c6")
-		(property "Reference" "D?"
+		(property "Reference" "D61"
 			(at 257.81 147.3199 90)
 			(effects
 				(font
@@ -13794,7 +13794,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D61")
 					(unit 1)
 				)
 			)
@@ -13810,7 +13810,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ab5333c5-90db-46cf-add2-d03a1e73ea0e")
-		(property "Reference" "D?"
+		(property "Reference" "D64"
 			(at 275.59 93.9799 90)
 			(effects
 				(font
@@ -13888,7 +13888,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D64")
 					(unit 1)
 				)
 			)
@@ -13904,7 +13904,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad86e500-2d60-4087-9767-6dfe1f91a8b8")
-		(property "Reference" "D?"
+		(property "Reference" "D21"
 			(at 133.35 93.9799 90)
 			(effects
 				(font
@@ -13982,7 +13982,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -13998,7 +13998,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae81896a-6aab-4e24-8026-cae6622a777e")
-		(property "Reference" "SW?"
+		(property "Reference" "SW16"
 			(at 118.11 101.6 0)
 			(effects
 				(font
@@ -14056,7 +14056,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW16")
 					(unit 1)
 				)
 			)
@@ -14072,7 +14072,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b02aa842-76af-4d94-b13a-13715b8eb104")
-		(property "Reference" "D?"
+		(property "Reference" "D23"
 			(at 133.35 129.5399 90)
 			(effects
 				(font
@@ -14150,7 +14150,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -14166,7 +14166,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0f60acb-6fe3-4714-9c13-10e69692fbeb")
-		(property "Reference" "SW?"
+		(property "Reference" "SW2"
 			(at 64.77 101.6 0)
 			(effects
 				(font
@@ -14224,7 +14224,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -14240,7 +14240,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b1b3eda4-3c92-49dc-b351-2ade5d033257")
-		(property "Reference" "D?"
+		(property "Reference" "D39"
 			(at 186.69 129.5399 90)
 			(effects
 				(font
@@ -14318,7 +14318,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D39")
 					(unit 1)
 				)
 			)
@@ -14334,7 +14334,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b34e302f-3302-4407-85de-9604261fceca")
-		(property "Reference" "D?"
+		(property "Reference" "D6"
 			(at 80.01 93.9799 90)
 			(effects
 				(font
@@ -14412,7 +14412,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -14428,7 +14428,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b59213f3-98f0-4040-bf71-ca6a519637c7")
-		(property "Reference" "D?"
+		(property "Reference" "D62"
 			(at 257.81 166.3699 90)
 			(effects
 				(font
@@ -14506,7 +14506,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D62")
 					(unit 1)
 				)
 			)
@@ -14522,7 +14522,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b6c49157-6b20-4085-ac44-de59004000d5")
-		(property "Reference" "D?"
+		(property "Reference" "D22"
 			(at 133.35 111.7599 90)
 			(effects
 				(font
@@ -14600,7 +14600,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -14616,7 +14616,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7148b3a-f22b-4563-9788-4c591136873b")
-		(property "Reference" "SW?"
+		(property "Reference" "SW42"
 			(at 207.01 83.82 0)
 			(effects
 				(font
@@ -14674,7 +14674,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW42")
 					(unit 1)
 				)
 			)
@@ -14690,7 +14690,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be8e42f6-5baa-4d0c-b9f3-e7385aa319dd")
-		(property "Reference" "SW?"
+		(property "Reference" "SW5"
 			(at 64.77 176.53 0)
 			(effects
 				(font
@@ -14748,7 +14748,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -14764,7 +14764,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bfeabdf3-9db7-4468-bb57-c5fc7034d92f")
-		(property "Reference" "SW?"
+		(property "Reference" "SW78"
 			(at 313.69 176.53 0)
 			(effects
 				(font
@@ -14822,7 +14822,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW78")
 					(unit 1)
 				)
 			)
@@ -14838,7 +14838,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1288ae8-c965-41ce-8a0b-5ea9fc48c08a")
-		(property "Reference" "SW?"
+		(property "Reference" "SW53"
 			(at 242.57 101.6 0)
 			(effects
 				(font
@@ -14896,7 +14896,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW53")
 					(unit 1)
 				)
 			)
@@ -14912,7 +14912,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c19ddf04-b634-4843-b610-5e0e5218a28b")
-		(property "Reference" "D?"
+		(property "Reference" "D11"
 			(at 97.79 111.7599 90)
 			(effects
 				(font
@@ -14990,7 +14990,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -15006,7 +15006,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1f7640b-1602-486a-8583-26937650e455")
-		(property "Reference" "SW?"
+		(property "Reference" "SW47"
 			(at 224.79 83.82 0)
 			(effects
 				(font
@@ -15064,7 +15064,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW47")
 					(unit 1)
 				)
 			)
@@ -15080,7 +15080,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c6049023-1204-4aeb-9a50-c28227990b97")
-		(property "Reference" "D?"
+		(property "Reference" "D43"
 			(at 204.47 111.7599 90)
 			(effects
 				(font
@@ -15158,7 +15158,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D43")
 					(unit 1)
 				)
 			)
@@ -15174,7 +15174,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c67f5b3a-725a-4467-ad7a-257b969ebc4e")
-		(property "Reference" "D?"
+		(property "Reference" "D60"
 			(at 257.81 129.5399 90)
 			(effects
 				(font
@@ -15252,7 +15252,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D60")
 					(unit 1)
 				)
 			)
@@ -15268,7 +15268,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca1442f0-11cd-4656-9a99-cdbe62c56952")
-		(property "Reference" "SW?"
+		(property "Reference" "SW71"
 			(at 295.91 137.16 0)
 			(effects
 				(font
@@ -15326,7 +15326,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW71")
 					(unit 1)
 				)
 			)
@@ -15342,7 +15342,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd178825-1dbc-4358-80d1-617629e4a2cd")
-		(property "Reference" "SW?"
+		(property "Reference" "SW52"
 			(at 242.57 83.82 0)
 			(effects
 				(font
@@ -15400,7 +15400,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW52")
 					(unit 1)
 				)
 			)
@@ -15416,7 +15416,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d401cca6-c40d-46ed-95ca-57f5328c0155")
-		(property "Reference" "SW?"
+		(property "Reference" "SW65"
 			(at 278.13 101.6 0)
 			(effects
 				(font
@@ -15474,7 +15474,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW65")
 					(unit 1)
 				)
 			)
@@ -15490,7 +15490,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d508ebe8-833d-4cb4-b6f7-f5249ea20c8b")
-		(property "Reference" "SW?"
+		(property "Reference" "SW56"
 			(at 242.57 156.21 0)
 			(effects
 				(font
@@ -15548,7 +15548,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW56")
 					(unit 1)
 				)
 			)
@@ -15564,7 +15564,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d662869c-08f7-478f-934c-76c9eda50ba5")
-		(property "Reference" "SW?"
+		(property "Reference" "SW79"
 			(at 331.47 83.82 0)
 			(effects
 				(font
@@ -15622,7 +15622,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW79")
 					(unit 1)
 				)
 			)
@@ -15638,7 +15638,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d90bcb9c-e205-497e-a479-bb7056caeddc")
-		(property "Reference" "SW?"
+		(property "Reference" "SW22"
 			(at 135.89 101.6 0)
 			(effects
 				(font
@@ -15696,7 +15696,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW22")
 					(unit 1)
 				)
 			)
@@ -15712,7 +15712,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d92cb9cf-dcfd-4207-ba40-a0e8c44a3559")
-		(property "Reference" "D?"
+		(property "Reference" "D59"
 			(at 257.81 111.7599 90)
 			(effects
 				(font
@@ -15790,7 +15790,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D59")
 					(unit 1)
 				)
 			)
@@ -15806,7 +15806,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da715797-4e21-48a9-81b8-424ba5fe58ae")
-		(property "Reference" "D?"
+		(property "Reference" "D8"
 			(at 80.01 166.3699 90)
 			(effects
 				(font
@@ -15884,7 +15884,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -15900,7 +15900,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "daec3631-251e-4e64-9fca-2a0b1c1503e2")
-		(property "Reference" "D?"
+		(property "Reference" "D63"
 			(at 257.81 186.6899 90)
 			(effects
 				(font
@@ -15978,7 +15978,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D63")
 					(unit 1)
 				)
 			)
@@ -15994,7 +15994,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db411616-a164-4835-a58c-61735201e3b5")
-		(property "Reference" "D?"
+		(property "Reference" "D16"
 			(at 115.57 111.7599 90)
 			(effects
 				(font
@@ -16072,7 +16072,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -16088,7 +16088,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db94ced5-6453-4422-84e6-1321bd7a416d")
-		(property "Reference" "SW?"
+		(property "Reference" "SW43"
 			(at 207.01 101.6 0)
 			(effects
 				(font
@@ -16146,7 +16146,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW43")
 					(unit 1)
 				)
 			)
@@ -16162,7 +16162,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ddd1ca32-1317-4383-9b34-2f8e98f0ac47")
-		(property "Reference" "SW?"
+		(property "Reference" "SW39"
 			(at 189.23 119.38 0)
 			(effects
 				(font
@@ -16220,7 +16220,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW39")
 					(unit 1)
 				)
 			)
@@ -16236,7 +16236,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "def4a75a-b369-4662-a1f3-6257f21f92ad")
-		(property "Reference" "D?"
+		(property "Reference" "D58"
 			(at 257.81 93.9799 90)
 			(effects
 				(font
@@ -16314,7 +16314,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D58")
 					(unit 1)
 				)
 			)
@@ -16330,7 +16330,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0199310-46d7-41dd-a194-2b028eeb9e57")
-		(property "Reference" "SW?"
+		(property "Reference" "SW77"
 			(at 313.69 156.21 0)
 			(effects
 				(font
@@ -16388,7 +16388,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW77")
 					(unit 1)
 				)
 			)
@@ -16404,7 +16404,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e1cb467a-cce1-4427-a3fd-1ce685d91064")
-		(property "Reference" "SW?"
+		(property "Reference" "SW34"
 			(at 171.45 137.16 0)
 			(effects
 				(font
@@ -16462,7 +16462,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW34")
 					(unit 1)
 				)
 			)
@@ -16478,7 +16478,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2da81d0-8a2b-450e-b741-e1429c487739")
-		(property "Reference" "D?"
+		(property "Reference" "D38"
 			(at 186.69 111.7599 90)
 			(effects
 				(font
@@ -16556,7 +16556,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D38")
 					(unit 1)
 				)
 			)
@@ -16572,7 +16572,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e794935a-908d-47b6-b2f9-b277f186ab1f")
-		(property "Reference" "SW?"
+		(property "Reference" "SW11"
 			(at 100.33 101.6 0)
 			(effects
 				(font
@@ -16630,7 +16630,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW11")
 					(unit 1)
 				)
 			)
@@ -16646,7 +16646,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e8189e36-9783-4ad3-937b-f459ff2c5ae2")
-		(property "Reference" "SW?"
+		(property "Reference" "SW61"
 			(at 260.35 137.16 0)
 			(effects
 				(font
@@ -16704,7 +16704,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW61")
 					(unit 1)
 				)
 			)
@@ -16720,7 +16720,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9b768d5-631b-4422-a9a8-7b7a6d9f3963")
-		(property "Reference" "SW?"
+		(property "Reference" "SW48"
 			(at 224.79 101.6 0)
 			(effects
 				(font
@@ -16778,7 +16778,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW48")
 					(unit 1)
 				)
 			)
@@ -16794,7 +16794,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eafa2fdb-3082-4905-beb7-0922904fe8f7")
-		(property "Reference" "SW?"
+		(property "Reference" "SW50"
 			(at 224.79 137.16 0)
 			(effects
 				(font
@@ -16852,7 +16852,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW50")
 					(unit 1)
 				)
 			)
@@ -16868,7 +16868,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed4f8d9c-e5ad-44c2-b968-eec77fa4c5b0")
-		(property "Reference" "D?"
+		(property "Reference" "D46"
 			(at 204.47 166.3699 90)
 			(effects
 				(font
@@ -16946,7 +16946,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D46")
 					(unit 1)
 				)
 			)
@@ -16962,7 +16962,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "effa5514-9906-4111-8ccb-ad48d63fa042")
-		(property "Reference" "D?"
+		(property "Reference" "D20"
 			(at 115.57 186.6899 90)
 			(effects
 				(font
@@ -17040,7 +17040,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -17056,7 +17056,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f144e031-945d-4acd-89e8-37b5b29f1647")
-		(property "Reference" "SW?"
+		(property "Reference" "SW9"
 			(at 82.55 176.53 0)
 			(effects
 				(font
@@ -17114,7 +17114,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW9")
 					(unit 1)
 				)
 			)
@@ -17130,7 +17130,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f28a6e27-1cb3-46b3-b773-12f1df1f2850")
-		(property "Reference" "SW?"
+		(property "Reference" "SW8"
 			(at 82.55 156.21 0)
 			(effects
 				(font
@@ -17188,7 +17188,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW8")
 					(unit 1)
 				)
 			)
@@ -17204,7 +17204,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f551caf8-b49f-4f02-a4c5-aeaec0dd25e2")
-		(property "Reference" "D?"
+		(property "Reference" "D55"
 			(at 240.03 147.3199 90)
 			(effects
 				(font
@@ -17282,7 +17282,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D55")
 					(unit 1)
 				)
 			)
@@ -17298,7 +17298,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5ec602f-268b-4d8c-b653-f3279cb4f8d2")
-		(property "Reference" "D?"
+		(property "Reference" "D17"
 			(at 115.57 129.5399 90)
 			(effects
 				(font
@@ -17376,7 +17376,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -17392,7 +17392,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f6cbf2d2-c2bd-4f9b-bbb7-55f1e3db2685")
-		(property "Reference" "D?"
+		(property "Reference" "D79"
 			(at 328.93 93.9799 90)
 			(effects
 				(font
@@ -17470,7 +17470,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D79")
 					(unit 1)
 				)
 			)
@@ -17486,7 +17486,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f739958e-704a-4b13-8146-76d6e793591e")
-		(property "Reference" "SW?"
+		(property "Reference" "SW67"
 			(at 278.13 137.16 0)
 			(effects
 				(font
@@ -17544,7 +17544,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW67")
 					(unit 1)
 				)
 			)
@@ -17560,7 +17560,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7d1f3c3-2c8b-4fce-b569-0696c0e9b741")
-		(property "Reference" "SW?"
+		(property "Reference" "SW28"
 			(at 153.67 119.38 0)
 			(effects
 				(font
@@ -17618,7 +17618,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "SW?")
+					(reference "SW28")
 					(unit 1)
 				)
 			)
@@ -17634,7 +17634,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa646d7c-5bcf-484c-9a38-f3c295b3c5a0")
-		(property "Reference" "D?"
+		(property "Reference" "D45"
 			(at 204.47 147.3199 90)
 			(effects
 				(font
@@ -17712,7 +17712,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D45")
 					(unit 1)
 				)
 			)
@@ -17728,7 +17728,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ffa397aa-294d-4c31-bccf-ce0ed9d5008b")
-		(property "Reference" "D?"
+		(property "Reference" "D33"
 			(at 168.91 129.5399 90)
 			(effects
 				(font
@@ -17806,7 +17806,7 @@
 			)
 			(project "modern-keyboard-template"
 				(path "/cb32b2da-a60d-4ed4-a57b-2c397f553171/11fd473b-f429-4fd9-8625-b24adfade585"
-					(reference "D?")
+					(reference "D33")
 					(unit 1)
 				)
 			)
